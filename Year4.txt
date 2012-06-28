@@ -1,4 +1,4 @@
-Reinders, fourth year of the fortress
+Reinders, fourth year of the fortress, Granite 1, 254
 Granite 1: After a year of mediocrity, followed by a bloody rout of our builders, I took receipt of the fortress. Bodies litter the surface. Goblin squads made short work of the military and civilians. No warning bell was rung. It's a massacre, a tragedy rarely seen in this scale. The goblins will pay. But I'm not going out there. No, fuck that, we're staying down here, behind our wall of traps, until those goblins disappear and we might have a chance.
 
 We need towers. Crossbow towers. But I fear this ice is going to melt before we get the chance, and I don't know what we'll do then. I'm not organizing an aquifer punch. No, no, no. Just not going to happen.
@@ -93,5 +93,24 @@ The fortress is running very smoothly. I think it's time for another
 
 Checkpoint
 
+"Id Fikodudil, Doe Rabbit (Tame) has given birth to bunnies." I don't fucking care.
+
+Obsidian 14: Congratulations, Count FreakyCheeseMan! As we all know, our Count was burnt out at the end of last year, having suffered through the ambushes and dragons. With the cunning use of flags, we have had a much more casualty-free year this time around. I mean alarms. Cunning use of alarms.
+
+His hard work and dedication will be a constant, essential part of our fortress, as he lovingly crafts the mechanisms which run every trap and every automated system in our fortress. His greatest works will destroy our greatest enemies. To FreakyCheeseMan!
+
+Obsidian 19: The ghostly speardwarf is back. Will we ever be rid of this menace?A dwarven child is among the undead, now. A memorial is being erected as I write this. Must we never move past the events of last year?
+
+The year is coming to a close. Soon spring will bring back the grass and the annoying sun, and we will be more compelled to remain in our fortress. It seems my time as overseer is also coming to an end - at the end of this year, at least for a while, I will retire to my jobs as mayor and as broker.
 
 
+Granite 1: The end of my year is tolled in with passage into the Age of Legends. That's right, we killed so many dragons that right now our fortress is a thing of legends. Who's totally boss? Me totally boss!
+
+
+Notes: Mine carts are a carefully calibrated thing. They dump stacks of 50 furniture onto one square, and move like five rocks at a time. If the current setup is buggy (the dwarves are moving rocks from close to the smelters to far from the smelters so they can put the rocks in the mine cart), please change the stockpiles close to the mine cart pickup area (F3, and west a little) to take from the furniture/magnetite stockpile. Stockpiles which take from links and have no links are great ways of controlling which stones get moved to a mine cart loading point. Try to streamline the mine cart transport system to get more stones going down, and get that weaponsmith trained! We need an armorer, as well.
+
+DO NOT RELEASE THE VAMPIRE. She has been locked in that room for months, and she is still not hungry or thirsty. Vampires have potential for use as pump operators, so keep that in mind. A lever-pulling room would also well-suit the vampire, a creature of the night, an undead horror, and a mysterious, powerful creature which would not hesitate to tear your head off.
+
+The Real Marauder, signing out.
+
+Checkpoint.
