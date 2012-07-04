@@ -1,0 +1,11 @@
+Early Spring, 255
+	Gave the vampire a custom profession just to be sure.
+	Began plans for vampire factory.
+	Renamed a few professions.
+		Farmers and peasants are now "misc"
+			before, farmers didn't even farm
+	built a few cage traps near the entrance to take the edge off of invasions a bit
+
+Mid Spring, 255
+	Hunting down and destroying extraneous garbage zones.
+
